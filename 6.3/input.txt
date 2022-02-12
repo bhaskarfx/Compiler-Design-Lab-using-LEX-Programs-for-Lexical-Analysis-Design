@@ -1,0 +1,2 @@
+A "For" Loop is used for repeating a specific block of code for a known number of times. 
+For example, if we want to check the grade for every student in the class, we loop for 1 to that number.
