@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5517599&assignment_repo_type=AssignmentRepo)
 ## Rishav Kumar (2019UGCS058R) ![](https://visitor-badge.laobi.icu/badge?page_id=Dr-B-Mondal-s-class/compiler-design-laboratory-1-Rishav9852Kumar)    [![Github](https://img.shields.io/github/followers/Rishav9852Kumar?label=Follow&style=social)](https://github.com/Rishav9852Kumar)</br>
-## Course Instructor - (Bhaskar Mondal)  [![Github](https://img.shields.io/github/followers/bhaskarfx?label=Follow&style=social)](https://github.com/bhaskarfx) 
+## Course Instructor - (Bhaskar Mondal)  [![Watch vidios at:](https://youtube.com/playlist?list=PLzOpg7dg1fW0wDjD2q8hmoMHFrbK4Le4R&si=QGfVyZx-nll_Ki4u)](https://youtube.com/playlist?list=PLzOpg7dg1fW0wDjD2q8hmoMHFrbK4Le4R&si=QGfVyZx-nll_Ki4u)  [![Github](https://img.shields.io/github/followers/bhaskarfx?label=Follow&style=social)](https://github.com/bhaskarfx) 
 ## 1. Day 1(06-08-2021)
    #### 1.1: Write a Lex program to detect if the input is a digit or letter. [I/O](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-Rishav9852Kumar/blob/main/IMAGE/1.png)
 ## 2. Day 2(14-08-2021)
